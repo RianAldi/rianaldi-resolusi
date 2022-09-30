@@ -4,6 +4,7 @@ Front-End-Developer
 -Html
  "angular"
 -css
+ "tailwind css"
  "Bosstrap"
 -Javascript
   *ES6
