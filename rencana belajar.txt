@@ -2,7 +2,9 @@ Fullstack Web Developer
 
 Front-End-Developer
 -Html
+ "angular"
 -css
+ "tailwind css"
 -Javascript
   *ES6
   *React
