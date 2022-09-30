@@ -4,6 +4,8 @@ Front-End-Developer
 -Html
 -css
 -Javascript
+  *ES6
+  *React
 
 Back-End-Developer
 -PHP
